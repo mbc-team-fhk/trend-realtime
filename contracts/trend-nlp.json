@@ -1,0 +1,13 @@
+{
+  "id": "String",
+  "title_normalized": "String",
+  "url": "String",
+  "tokens": [
+    "String"
+  ],
+  "sentiment": "pos|neu|neg",
+  "topic_id": "t1",
+  "ts": 0,
+  "source": "String",
+  "lang": "ko"
+}
